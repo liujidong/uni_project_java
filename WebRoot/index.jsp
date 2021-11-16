@@ -66,7 +66,7 @@
 			<div id="tabbar1">
 				<input type="button" value="单程">
 			</div>
-			<form action="index_allExFlight.do">
+			<form action="index_allExFlight.do" method="post">
 				<table id="tab_content1" class="tab_content">
 					<tr><td>出发城市</td><td>到达城市</td><td>出发时间</td></tr>
 					<tr>
